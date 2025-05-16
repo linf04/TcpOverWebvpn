@@ -1,6 +1,7 @@
 ### 1、原理
 
-![](C:\Users\admin\AppData\Roaming\marktext\images\2025-05-16-17-44-09-image.png)
+![image](https://github.com/user-attachments/assets/c0b83de9-e3ce-4b85-b899-742677effa11)
+
 
 使用webvpn的websocket转发流量。
 
@@ -25,8 +26,8 @@ webvpn2tcp.exe -mode client -server <校内服务端ip> -listen  <:映射端口>
 示例：
 
 登录webvpn门户，复制cookie
+![image](https://github.com/user-attachments/assets/cd95ee33-70f1-4a07-8c78-3c6f438ec451)
 
-![](C:\Users\admin\AppData\Roaming\marktext\images\2025-05-16-17-55-30-image.png)
 
 ```shell
 webvpn2tcp.exe -mode server -listen :12333 -target 127.0.0.1:81
@@ -40,7 +41,8 @@ webvpn2tcp.exe -mode client -server 10.69.12.112:12333 -listen :9999 -cookie "sh
 
 iperf测速
 
-![](C:\Users\admin\AppData\Roaming\marktext\images\2025-05-16-18-00-41-image.png)
+![image](https://github.com/user-attachments/assets/ef8c9612-48dc-4103-856a-c9d067024969)
+
 
 ### 5、应用场景
 
