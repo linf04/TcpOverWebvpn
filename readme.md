@@ -1,3 +1,6 @@
+
+<img width="807" height="537" alt="73df9496-1d2b-48d5-9dbb-341e7364173f (1)" src="https://github.com/user-attachments/assets/66ac7fee-d1a5-4b02-9b6e-db453cfd9afe" style="width:100%;" />
+
 ### 1、原理
 
 ![image](https://github.com/user-attachments/assets/c0b83de9-e3ce-4b85-b899-742677effa11)
